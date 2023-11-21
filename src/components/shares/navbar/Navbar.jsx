@@ -12,14 +12,13 @@ const Navbar = () => {
     const closeMenu = () => {
         setMenuOpen(false);
     };
-    {/* <img src="https://i.ibb.co/ynVsRNB/logofooter.png" alt="logofooter" border="0">
-<img src="https://i.ibb.co/ncgR5X3/logo.png" alt="logo" border="0"></img> */}
+    
     return (
-        <nav className="p-4 shadow-md">
+        <nav className="p-4 shadow-md sticky top-0">
             <div className="container mx-auto flex items-center justify-between">
                 <div className='flex'>
                     <img src="https://i.ibb.co/ncgR5X3/logo.png" alt="" />
-                    <Link to="/" className="text-black text-2xl font-bold" onClick={closeMenu}>
+                    <Link to="/" className="text-blue-500 text-2xl font-bold" onClick={closeMenu}>
                         InspireHub
                     </Link>
                 </div>
