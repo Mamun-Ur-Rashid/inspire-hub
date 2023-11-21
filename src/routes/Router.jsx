@@ -5,6 +5,7 @@ import Login from "../components/login/Login";
 import SignUp from "../components/signUp/SignUp";
 import Contact from "../components/contact/Contact";
 import About from "../components/about/About";
+import Categories from "../components/categories/Categories";
 
 const router = createBrowserRouter([
     {
@@ -16,19 +17,23 @@ const router = createBrowserRouter([
                 element: <Home></Home>
             },
             {
-                path:'/',
+                path:'/about',
                 element:<About></About>
             },
             {
-                path:'/',
+                path:'/contact',
                 element:<Contact></Contact>
             },
             {
-                path:'/',
+                path:'categories',
+                element:<Categories></Categories>
+            },
+            {
+                path:'/login',
                 element: <Login></Login>
             },
             {
-                path:'/',
+                path:'/signup',
                 element: <SignUp></SignUp>
             }
         ]
