@@ -36,7 +36,7 @@ const Banner = () => {
                 onAutoplayTimeLeft={onAutoplayTimeLeft}
                 className="mySwiper"
             >
-                <SwiperSlide className="h-screen w-full">
+                <SwiperSlide className=" w-full">
                     <div className="relative h-full">
                         <img
                             src="https://i.ibb.co/cTVPFzv/banner1.png"
@@ -46,15 +46,15 @@ const Banner = () => {
 
                         {/* Content Overlay */}
                         <div className="absolute inset-0 flex flex-col items-center justify-center text-white">
-                            <p className="text-3xl font-bold  mb-6">Express your passions, Your way</p>
+                            <p className="text-4xl font-bold  mb-6">Express your passions, Your way</p>
                             <small className="text-lg mb-4">Create a unique and beautiful blog easily.</small>
-                            <button className="bg-blue-500 text-white py-2 px-4 rounded-full hover:bg-blue-600">
+                            <button className="bg-blue-500 text-white py-2 px-4 rounded-xl hover:bg-blue-600">
                                 Create Your Blog
                             </button>
                         </div>
                     </div>
                 </SwiperSlide>
-                <SwiperSlide className="h-screen w-full">
+                <SwiperSlide className=" w-full">
                     <div className="relative h-full">
                         <img
                             src="https://i.ibb.co/crSGxm2/banner7.png"
@@ -64,15 +64,15 @@ const Banner = () => {
 
                         {/* Content Overlay */}
                         <div className="absolute inset-0 flex flex-col items-center justify-center text-white">
-                            <p className="text-3xl font-bold  mb-6">Express your passions, Your way</p>
+                            <p className="text-4xl font-bold  mb-6">Express your passions, Your way</p>
                             <small className="text-lg mb-4">Create a unique and beautiful blog easily.</small>
-                            <button className="bg-blue-500 text-white py-2 px-4 rounded-full hover:bg-blue-600">
+                            <button className="bg-blue-500 text-white py-2 px-4 rounded-xl hover:bg-blue-600">
                                 Create Your Blog
                             </button>
                         </div>
                     </div>
                 </SwiperSlide>
-                <SwiperSlide className="h-screen w-full">
+                <SwiperSlide className=" w-full">
                     <div className="relative h-full">
                         <img
                             src="https://i.ibb.co/tq2rWFt/banner8.png"
@@ -82,15 +82,15 @@ const Banner = () => {
 
                         {/* Content Overlay */}
                         <div className="absolute inset-0 flex flex-col items-center justify-center text-white">
-                            <p className="text-3xl font-bold  mb-6">Express your passions, Your way</p>
+                            <p className="text-4xl font-bold  mb-6">Express your passions, Your way</p>
                             <small className="text-lg mb-4">Create a unique and beautiful blog easily.</small>
-                            <button className="bg-blue-500 text-white py-2 px-4 rounded-full hover:bg-blue-600">
+                            <button className="bg-blue-500 text-white py-2 px-4 rounded-xl hover:bg-blue-600">
                                 Create Your Blog
                             </button>
                         </div>
                     </div>
                 </SwiperSlide>
-                <SwiperSlide className="h-screen w-full">
+                <SwiperSlide className=" w-full">
                     <div className="relative h-full">
                         <img
                             src="https://i.ibb.co/D4JSH0H/banner6.png"
@@ -100,15 +100,15 @@ const Banner = () => {
 
                         {/* Content Overlay */}
                         <div className="absolute inset-0 flex flex-col items-center justify-center text-white">
-                            <p className="text-3xl font-bold  mb-6">Express your passions, Your way</p>
+                            <p className="text-4xl font-bold  mb-6">Express your passions, Your way</p>
                             <small className="text-lg mb-4">Create a unique and beautiful blog easily.</small>
-                            <button className="bg-blue-500 text-white py-2 px-4 rounded-full hover:bg-blue-600">
+                            <button className="bg-blue-500 text-white py-2 px-4 rounded-xl hover:bg-blue-600">
                                 Create Your Blog
                             </button>
                         </div>
                     </div>
                 </SwiperSlide>
-                <SwiperSlide className="h-screen w-full">
+                <SwiperSlide className=" w-full">
                     <div className="relative h-full">
                         <img
                             src="https://i.ibb.co/BPJnbZJ/banner2.png"
@@ -118,15 +118,15 @@ const Banner = () => {
 
                         {/* Content Overlay */}
                         <div className="absolute inset-0 flex flex-col items-center justify-center text-white">
-                            <p className="text-3xl font-bold  mb-6">Express your passions, Your way</p>
+                            <p className="text-4xl font-bold  mb-6">Express your passions, Your way</p>
                             <small className="text-lg mb-4">Create a unique and beautiful blog easily.</small>
-                            <button className="bg-blue-500 text-white py-2 px-4 rounded-full hover:bg-blue-600">
+                            <button className="bg-blue-500 text-white py-2 px-4 rounded-xl hover:bg-blue-600">
                                 Create Your Blog
                             </button>
                         </div>
                     </div>
                 </SwiperSlide>
-                <SwiperSlide className="h-screen w-full">
+                <SwiperSlide className=" w-full">
                     <div className="relative h-full">
                         <img
                             src="https://i.ibb.co/x3Pj9Zr/banner3.png"
@@ -136,15 +136,15 @@ const Banner = () => {
 
                         {/* Content Overlay */}
                         <div className="absolute inset-0 flex flex-col items-center justify-center">
-                            <p className="text-3xl font-bold  mb-6">Express your passions, Your way</p>
+                            <p className="text-4xl font-bold  mb-6">Express your passions, Your way</p>
                             <small className="text-lg mb-4">Create a unique and beautiful blog easily.</small>
-                            <button className="bg-blue-500 text-white py-2 px-4 rounded-full hover:bg-blue-600">
+                            <button className="bg-blue-500 text-white py-2 px-4 rounded-xl hover:bg-blue-600">
                                 Create Your Blog
                             </button>
                         </div>
                     </div>
                 </SwiperSlide>
-                <SwiperSlide className="h-screen w-full">
+                <SwiperSlide className=" w-full">
                     <div className="relative h-full">
                         <img
                             src="https://i.ibb.co/hdkLVtX/banner4.png"
@@ -154,15 +154,15 @@ const Banner = () => {
 
                         {/* Content Overlay */}
                         <div className="absolute inset-0 flex flex-col items-center justify-center">
-                            <p className="text-3xl font-bold  mb-6">Express your passions, Your way</p>
+                            <p className="text-4xl font-bold  mb-6">Express your passions, Your way</p>
                             <small className="text-lg mb-4">Create a unique and beautiful blog easily.</small>
-                            <button className="bg-blue-500 text-white py-2 px-4 rounded-full hover:bg-blue-600">
+                            <button className="bg-blue-500 text-white py-2 px-4 rounded-xl hover:bg-blue-600">
                                 Create Your Blog
                             </button>
                         </div>
                     </div>
                 </SwiperSlide>
-                <SwiperSlide className="h-screen w-full">
+                <SwiperSlide className=" w-full">
                     <div className="relative h-full">
                         <img
                             src="https://i.ibb.co/XsM617Q/banner5.png"
@@ -172,9 +172,9 @@ const Banner = () => {
 
                         {/* Content Overlay */}
                         <div className="absolute inset-0 flex flex-col items-center justify-center">
-                            <p className="text-3xl font-bold  mb-6">Express your passions, Your way</p>
+                            <p className="text-4xl font-bold  mb-6">Express your passions, Your way</p>
                             <small className="text-lg mb-4">Create a unique and beautiful blog easily.</small>
-                            <button className="bg-blue-500 text-white py-2 px-4 rounded-full hover:bg-blue-600">
+                            <button className="bg-blue-500 text-white py-2 px-4 rounded-xl hover:bg-blue-600">
                                 Create Your Blog
                             </button>
                         </div>

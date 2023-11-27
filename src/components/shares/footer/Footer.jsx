@@ -7,8 +7,8 @@ const Footer = () => {
             <div className="container mx-auto grid grid-cols-1 md:grid-cols-3 gap-10 items-center justify-between">
                 <div className="mb-8 md:mb-0">
                     <div className='flex gap-5'>
-                        <img src="https://i.ibb.co/ynVsRNB/logofooter.png" alt="Company Logo" className="h-12 mb-4 rounded" />
-                        <p className='text-2xl'>Inspire Hub</p>
+                        <img src="https://i.ibb.co/KbcxDMF/logo2.png" alt="Company Logo" className="h-12 mb-4 rounded" />
+                        <p className='text-2xl font-bold'>Inspire Hub</p>
                     </div>
                     <p className='inline-flex gap-5 justify-center items-center mb-2'><FaPhone /> 9620148590</p>
                     <p>Since 2023 </p>

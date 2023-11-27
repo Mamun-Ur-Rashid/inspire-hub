@@ -14,10 +14,10 @@ const Navbar = () => {
     };
     
     return (
-        <nav className="p-4 shadow-md sticky top-0">
+        <nav className="p-2 shadow-md sticky top-0">
             <div className="container mx-auto flex items-center justify-between">
-                <div className='flex'>
-                    <img src="https://i.ibb.co/ncgR5X3/logo.png" alt="" />
+                <div className='flex items-center'>
+                    <img src="https://i.ibb.co/L8FS5pc/logo1.png" alt="" />
                     <Link to="/" className="text-blue-500 text-2xl font-bold" onClick={closeMenu}>
                         InspireHub
                     </Link>
