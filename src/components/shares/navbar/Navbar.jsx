@@ -14,7 +14,7 @@ const Navbar = () => {
     };
     
     return (
-        <nav className="p-2 shadow-md sticky top-0">
+        <nav className="p-2 shadow-md z-30 sticky top-0">
             <div className="container mx-auto flex items-center justify-between">
                 <div className='flex items-center'>
                     <img src="https://i.ibb.co/L8FS5pc/logo1.png" alt="" />
